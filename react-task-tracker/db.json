@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "meeting at school",
+      "day": "Feb 6th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "football tournament",
+      "day": "Feb 7th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Add task",
+      "day": "friday",
+      "reminder": true,
+      "id": "X674mem"
+    },
+    {
+      "text": "Eat Lunch",
+      "day": "Feb 6 at 2:30",
+      "reminder": false,
+      "id": "R0b9aGX"
+    }
+  ]
+}
